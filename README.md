@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: fallin.sebs@gmail.com
 &nbsp;&nbsp; 📲 +65-98796074
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/sebastian-sim-27475071) 
 
 <!-- CONTACT Section Ends -->
 
@@ -44,8 +44,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Singapore Management University
+Bachelors of Business Management 2002-07
 
 <!-- EDUCATION Section Ends -->
 
