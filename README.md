@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![Profile](https://user-images.githubusercontent.com/18512200/125604291-4f2cbaec-052e-4d69-a884-759f805ba26f.JPG)
+![Profile](https://user-images.githubusercontent.com/18512200/125605369-6633e1ac-14d9-4e66-ac76-90ba8dbbe60d.JPG)
 
 <!-- Add your details -->
 
