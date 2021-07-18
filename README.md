@@ -54,7 +54,7 @@ He is a strong facilitator who is a keen listener and with the ability to commun
 #### Leadership	
 • Managed team of 20 to prepare 50,000 sensor devices for dispatch across Singapore to reach 250,000 students for the 2015 National Science Challenge.	
 • Co-ordinated sales efforts of team of 6, through sales reports, and with research identifying and assigning potential new targets and up-selling opportunities to existing customer base. 	
-• As part of business development, troubleshoot customers' issues taking a collaborative approach by working with finance, logistics and sales, effectively reducing customer complaints by 15% over a 4 month period. 	![image](https://user-images.githubusercontent.com/18512200/126071565-f4dd8678-baff-4a8c-9bd3-ad48f39f1af3.png)
+• As part of business development, troubleshoot customers' issues taking a collaborative approach by working with finance, logistics and sales, effectively reducing customer complaints by 15% over a 4 month period. 
 
 
 <!-- COMPETENCIES Section Ends -->
@@ -85,10 +85,6 @@ Associate	October 2006 – June 2007
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
-<!-- Add your details -->
-
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
